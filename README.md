@@ -15,10 +15,13 @@
 
 1. Download `Recover_My_WiFi_Password.bat` from the [latest release](../../releases/latest).
 2. Right-click the file and choose **Run as administrator** (recommended).
-3. Choose whether to save the results, then read your networks and passwords.
-
+3. Choose whether to save the results, then read yourtworks and passwords.
+ ne
 ## Example output
 
+<p align="center">
+  <img width="700" alt="Recover My Wi-Fi Password screenshot" src="https://github.com/user-attachments/assets/f48e025e-664e-4bf8-893e-df73c56650bd" />
+</p>
 ```
 MyHomeWiFi  :  12345678
 Office-5G   :  s3cretPass
